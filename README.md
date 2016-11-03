@@ -1,6 +1,7 @@
 # GreatiOSJailbreakMaterial
 
-Min(Spark) Zheng (twitter@SparkZheng, weibo@蒸米spark)
+twitter@ twitter.com/SparkZheng
+weibo@ weibo.com/zhengmin1989
 
 Keep updating...please follow, thanks.
 
