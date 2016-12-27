@@ -1,4 +1,4 @@
-# GreatiOSJailbreakMaterial
+# GreatiOSJailbreakMaterial - Only List Most Useful Materials Here!
 
 twitter@ http://twitter.com/SparkZheng
 
