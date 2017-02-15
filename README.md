@@ -14,5 +14,7 @@ iOS 9.3.* Trident exp: https://github.com/benjamin-42/Trident
 
 iOS 10.1.1 mach_portal incomplete jailbreak: https://bugs.chromium.org/p/project-zero/issues/detail?id=965#c2
 
+iOS 10.12 jailbreak source code: https://github.com/kpwn/yalu102
+
 Keep updating...please follow, thanks.
 
