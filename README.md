@@ -16,5 +16,7 @@ iOS 10.1.1 mach_portal incomplete jailbreak: https://bugs.chromium.org/p/project
 
 iOS 10.12 jailbreak source code: https://github.com/kpwn/yalu102
 
+Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui: https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher
+
 Keep updating...please follow, thanks.
 
