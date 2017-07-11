@@ -18,5 +18,7 @@ iOS 10.12 jailbreak source code: https://github.com/kpwn/yalu102
 
 Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui: https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher
 
+Pwn2Own 2017 Safari sandbox: https://github.com/maximehip/Safari-iOS10.3.2-macOS-10.12.4-exploit-Bugs
+
 Keep updating...please follow, thanks.
 
