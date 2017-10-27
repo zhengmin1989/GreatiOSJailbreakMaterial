@@ -22,5 +22,7 @@ Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox: https://www.youtub
 
 Pwn2Own 2017 Safari sandbox: https://github.com/maximehip/Safari-iOS10.3.2-macOS-10.12.4-exploit-Bugs
 
+Live kernel introspection on iOS: https://bazad.github.io/2017/09/live-kernel-introspection-ios/
+
 Keep updating...please follow, thanks.
 
